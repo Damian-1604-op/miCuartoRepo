@@ -1,5 +1,4 @@
 ### Descripción del cambio
-
 Por favor, proporciona una descripción detallada de los cambios realizados en este PR.
 
 ### ¿Cuál es el contexto de este cambio?
